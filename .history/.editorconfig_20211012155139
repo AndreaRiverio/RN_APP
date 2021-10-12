@@ -1,0 +1,4 @@
+# Windows files
+root = true
+[*.]
+end_of_line = crlf

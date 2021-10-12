@@ -1,0 +1,4 @@
+# Windows files
+root = true
+[*.bat]
+end_of_line = crlf
